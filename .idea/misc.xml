@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <executablePath>/usr/local/bin/composer</executablePath>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (env) (2)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
